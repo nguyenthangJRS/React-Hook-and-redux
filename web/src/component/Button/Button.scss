@@ -1,0 +1,41 @@
+.btn{
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.4) ;
+    cursor: pointer;
+    color: white;
+
+    &:hover{
+        opacity: 0.6;
+    }
+
+}
+.sm{
+    padding: 12px 22px;
+    font-size: 1em;
+    
+}
+.md{
+    padding: 15px 30px;
+    font-size: 1.5em;
+}
+.lg{
+    padding: 30px  60px;
+    font-size: 2em;
+}
+.blue{
+    background: #2e86de;
+}
+.red{
+    background: #EE5A24;
+}
+.green{
+    background: #1dd1a1;
+}
+.yellow{
+    background: #feca57;
+}
+.ocyan{
+    background: #48dbfb;
+}
